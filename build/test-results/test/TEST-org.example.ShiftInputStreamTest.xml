@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.example.ShiftInputStreamTest" tests="20" skipped="0" failures="0" errors="0" timestamp="2024-10-14T14:38:51" hostname="songhabin-ui-MacBookAir.local" time="0.121">
+  <properties/>
+  <testcase name="onlyShiftInputStreamTest1()" classname="org.example.ShiftInputStreamTest" time="0.053"/>
+  <testcase name="onlyShiftInputStreamTest2()" classname="org.example.ShiftInputStreamTest" time="0.003"/>
+  <testcase name="onlyShiftInputStreamTest3()" classname="org.example.ShiftInputStreamTest" time="0.001"/>
+  <testcase name="onlyShiftInputStreamTest4()" classname="org.example.ShiftInputStreamTest" time="0.002"/>
+  <testcase name="onlyShiftInputStreamTest5()" classname="org.example.ShiftInputStreamTest" time="0.002"/>
+  <testcase name="onlyShiftInputStreamTest6()" classname="org.example.ShiftInputStreamTest" time="0.001"/>
+  <testcase name="onlyShiftInputStreamTest7()" classname="org.example.ShiftInputStreamTest" time="0.001"/>
+  <testcase name="onlyShiftInputStreamTest8()" classname="org.example.ShiftInputStreamTest" time="0.005"/>
+  <testcase name="onlyShiftInputStreamTest9()" classname="org.example.ShiftInputStreamTest" time="0.003"/>
+  <testcase name="onlyShiftInputStreamTest10()" classname="org.example.ShiftInputStreamTest" time="0.004"/>
+  <testcase name="withLowerCaseInputStreamTest1()" classname="org.example.ShiftInputStreamTest" time="0.003"/>
+  <testcase name="withLowerCaseInputStreamTest2()" classname="org.example.ShiftInputStreamTest" time="0.003"/>
+  <testcase name="withLowerCaseInputStreamTest3()" classname="org.example.ShiftInputStreamTest" time="0.0"/>
+  <testcase name="withLowerCaseInputStreamTest4()" classname="org.example.ShiftInputStreamTest" time="0.001"/>
+  <testcase name="withLowerCaseInputStreamTest5()" classname="org.example.ShiftInputStreamTest" time="0.003"/>
+  <testcase name="withLowerCaseInputStreamTest6()" classname="org.example.ShiftInputStreamTest" time="0.002"/>
+  <testcase name="withLowerCaseInputStreamTest7()" classname="org.example.ShiftInputStreamTest" time="0.002"/>
+  <testcase name="withLowerCaseInputStreamTest8()" classname="org.example.ShiftInputStreamTest" time="0.001"/>
+  <testcase name="withLowerCaseInputStreamTest9()" classname="org.example.ShiftInputStreamTest" time="0.0"/>
+  <testcase name="withLowerCaseInputStreamTest10()" classname="org.example.ShiftInputStreamTest" time="0.001"/>
+  <system-out><![CDATA[Ifmmp Xpsme!
+Gdkkn Vnqkc!
+DEF def 123
+abc ABC!
+uvw UVW!
+C12BZ c#
+Z12YW z#
+XmnkyNsuzyXywjfr Yjxy!
+NcdaoDikpoNomzvh Ozno!
+UvZopmaMvyUvuHswohilaz123!@#
+ifmmp xpsme!
+gdkkn vnqkc!
+def def 123
+abc abc!
+uvw uvw!
+c12bz c#
+z12yw z#
+xmnkynsuzyxywjfr yjxy!
+ncdaodikponomzvh ozno!
+uvzopmamvyuvuhswohilaz123!@#
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
